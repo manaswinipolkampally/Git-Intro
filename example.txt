@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is an example!
 Done by MAnaswini
+=======
+GIven by Manaswini
+This is an example!
+>>>>>>> fa80bfb70e62bc39d38657cd49bce959f342b89e

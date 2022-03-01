@@ -1,6 +1,6 @@
 # Basics
 
-Now you should have everything configured and a copy of this repository pulled down locally to your machine.
+This is the new file for readme
 
 - [Basics](#basics)
   - [Add a file](#add-a-file)
